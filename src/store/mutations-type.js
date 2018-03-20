@@ -1,0 +1,11 @@
+
+export const SET_OFTENGOODS = 'SET_OFTENGOODS'
+
+export const SET_TYPEGOODS = 'SET_TYPEGOODS'
+
+export const SET_TABLEDATA = 'SET_TABLEDATA'
+
+
+export const DEL_SINGLEGOODS = 'DEL_SINGLEGOODS'
+
+export const DEL_ALLGOODS = 'DEL_ALLGOODS'
